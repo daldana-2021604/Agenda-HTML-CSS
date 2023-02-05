@@ -1,0 +1,58 @@
+.titulo{
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.fondo{
+    background-image: url("../images/istockphoto-850926774-640x640.jpg");
+    background-size: cover;
+}
+
+.contenido{
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.link1{
+    text-align: right;
+}
+
+.link2{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.titulo2{
+    color: white;
+}
+
+.detalles{
+    color: white;
+}
+
+.links2{
+    text-align: left;
+}
+
+.opciones{
+    background: transparent;
+}
+
+.nav-link{
+    color: white;
+}
+
+.usuario{
+    border-radius: 50px;
+}
+
+.informacion{
+    color: white;
+}

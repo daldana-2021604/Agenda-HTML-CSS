@@ -1,0 +1,27 @@
+.fondo{
+    background-image: url("../images/fondo-hexagonal-degradado_23-2148947282.avif");
+    background-size: cover;
+}
+
+.titulo{
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.cabecera{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+}
+
+.contenedor{
+    padding-bottom: 50px;
+}
+
+.cancelar{
+    margin: 15px;
+}
